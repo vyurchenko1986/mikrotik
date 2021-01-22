@@ -12,7 +12,7 @@ set ftp disabled=no address=127.0.0.1/32
 }
 
 # folderName:
-$mkdir folder="tftpboot"
+$mkdir folder="tftp"
 
 :delay 1
 
