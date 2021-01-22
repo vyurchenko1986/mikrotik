@@ -11,6 +11,7 @@ set ftp disabled=no address=127.0.0.1/32
 /file remove ($folder."/temp.txt")
 }
 
+# folderName:
 $mkdir folder="tftpboot"
 
 :delay 1
